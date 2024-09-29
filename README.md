@@ -16,3 +16,18 @@ Examples for exhaustive prompting method. Boosts up accuracy more than vanilla m
   * Jihyeon Yoon([Link](https://orcid.org/0000-0001-9610-0994))
   * somehowme@gmail.com
   * Questions and feedbacks are appreciated!
+
+## citation
+
+```
+@article{jihyeon_2024_13857340,
+  author       = {Jihyeon, Yoon},
+  title        = {{Exhaustive Prompting: New Method for Boosting 
+                   Accuracy}},
+  month        = sep,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.13857340},
+  url          = {https://doi.org/10.5281/zenodo.13857340}
+}
+```
