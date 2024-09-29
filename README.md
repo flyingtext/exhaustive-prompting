@@ -7,6 +7,10 @@ Examples for exhaustive prompting method. Boosts up accuracy more than vanilla m
   * ARC-Challenge dataset([Link](https://huggingface.co/datasets/allenai/ai2_arc))
   * SCRUPLES dataset([Link](https://huggingface.co/datasets/justinphan3110/scruples))
 
+## License
+
+  * MIT License
+
 ## About Author
 
   * Jihyeon Yoon([Link](https://orcid.org/0000-0001-9610-0994))
