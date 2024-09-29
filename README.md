@@ -2,6 +2,10 @@
 
 Examples for exhaustive prompting method. Boosts up accuracy more than vanilla method.
 
+## Paper
+
+  * [Link](https://doi.org/10.5281/zenodo.13857340)
+
 ## Dataset used
   * ETHICS dataset([Link](https://github.com/hendrycks/ethics))
   * ARC-Challenge dataset([Link](https://huggingface.co/datasets/allenai/ai2_arc))
@@ -17,7 +21,7 @@ Examples for exhaustive prompting method. Boosts up accuracy more than vanilla m
   * somehowme@gmail.com
   * Questions and feedbacks are appreciated!
 
-## citation
+## Citation
 
 ```
 @article{jihyeon_2024_13857340,
